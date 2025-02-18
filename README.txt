@@ -22,8 +22,8 @@ PARÂMETROS DO ALGORITMO
 ESTRUTURA DOS DADOS
 ------------------
 O arquivo "dados.txt" deve conter duas colunas:
-- Coluna 1: Altura
-- Coluna 2: Idade
+- Coluna 1: Idade
+- Coluna 2: Altura
 Obs: Use vírgula como separador decimal
 
 FUNCIONAMENTO
